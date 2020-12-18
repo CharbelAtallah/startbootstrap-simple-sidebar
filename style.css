@@ -7,7 +7,7 @@ Start HOME
     font-size: x-large;
     font-style: italic;
     padding-top: 12%;
-    padding-right: 27%;
+    padding-right: 50%;
 
 }
 
@@ -17,7 +17,7 @@ Start HOME
     margin: 20px;
     padding: auto;
     color: black;
-    margin-left: 34%;
+    margin-left: 8%;
     font-size: bold;
 }
 
@@ -55,6 +55,11 @@ Start ARTICLE
     overflow: hidden;
     background-color:black;
     color: white;
+  }
+
+  .img-fluid{
+    width: 50%;
+    height: 20%;
   }
 /*
 End ARTICLE
