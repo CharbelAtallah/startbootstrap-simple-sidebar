@@ -1,0 +1,70 @@
+/*
+Start HOME 
+*/
+.container-fluid{
+    text-align: center;
+    font-family: cursive;
+    font-size: x-large;
+    font-style: italic;
+    padding-top: 12%;
+    padding-right: 27%;
+
+}
+
+.textborder{
+    width: 600px;
+    height: 400px;
+    margin: 20px;
+    padding: auto;
+    color: black;
+    margin-left: 34%;
+    font-size: bold;
+}
+
+.btn{
+    background-color: transparent;
+}
+/*
+End HOME
+*/
+
+
+/*
+Start ARTICLE
+*/
+.collapsible {
+    background-color:transparent;
+    color: white;
+    cursor: progress;
+    padding: 40px;
+    padding-right: 20%;
+    width: 50%;
+    border:none;
+    text-align: center;
+    outline: none;
+    font-size: 25px;
+    font-style: italic;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+  }
+  
+  
+  .content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color:black;
+    color: white;
+  }
+/*
+End ARTICLE
+*/
+
+/*
+Start Media
+*/
+
+
+/*
+End Media
+*/
